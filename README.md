@@ -50,3 +50,7 @@ Analyze the interactions that users have with articles on the IBM Watson Studio 
 ### 4. Matrix Factorization
 
 Finally, a machine learning approach is completed to build recommendations. Using the user-item interactions, a matrix decomposition has been built out. Using this decomposition, we get an idea of how well the model can predict new articles an individual might interact with. Lastly, methods have been discussed which could be used moving forward, and how you might test how well your recommendations are working for engaging users.
+
+### `TODO:`
+
+Build a Flask app to host this recommender system.
